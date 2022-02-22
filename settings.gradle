@@ -1,0 +1,6 @@
+rootProject.name = 'scala-cgs'
+include "common"
+include "game"
+include "lobby"
+include "parties"
+

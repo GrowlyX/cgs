@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(":common")
+    implementation project(":parties")
+
+    compileOnly fileTree("library")
+}

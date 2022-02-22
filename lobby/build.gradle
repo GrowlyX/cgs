@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(":common")
+    implementation project(":parties")
+
+    compileOnly 'gg.scala.tangerine:tangerine:1.2.0'
+}
