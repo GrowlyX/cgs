@@ -2,7 +2,7 @@
 Extensive game framework written in Kotlin.
 
 ## What is this?
-CGS (yes, I stole the name from FrozenOrb's old game framework) is a minigame framework I wrote in December of 2021. This project *was* closed-source, but unfortunately, a series of events led me to decide to open-source it.
+CGS is a minigame framework I wrote in December of 2021. This project *was* closed-source, but unfortunately, a series of events led me to decide to open-source it.
 
 ## Why did I make it?
 When [@itsthreazy](https://twitter.com/itsthreazy) & I were working on PvPBar, we decided to work on a Bunkers gamemode to introduce later on. We originally planned on using a game framework written by [xander](https://github.com/xanderume) (afaik he was the only one working on it), but scrapped it and decided to write our own due to the horrible code & structure that it had.
